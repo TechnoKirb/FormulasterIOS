@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "math-app",
+    "slug": "snack-f043e3d3-382f-421a-9b0f-9e8c6a27aa63",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.technokirb.snackf043e3d3382f421a9b0f9e8c6a27aa63"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.technokirb.snackf043e3d3382f421a9b0f9e8c6a27aa63"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6349a7ca-382a-41a5-aedb-dfe95f851661"
+      }
+    }
+  }
+}
